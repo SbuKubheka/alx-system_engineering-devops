@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_c_content
+ls -al > ls_c_content
